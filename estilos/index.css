@@ -126,3 +126,15 @@ div article p{
     margin-bottom: 20px;
 
 }
+
+.logo{
+    width: 4%;
+    height: auto;
+    margin-right: 40px;
+}
+
+.logo_footer{
+    width: 20%;
+    height: auto;
+    
+}
